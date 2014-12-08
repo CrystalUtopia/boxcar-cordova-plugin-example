@@ -12,7 +12,7 @@ tell cordova what platforms should be used:
 
 and add plugin required for accessing push services on device
 
-    # cordova plugin add http://github.com/boxcar-cordova-plugin
+    # cordova plugin add https://github.com/boxcar/boxcar-cordova-plugin
 
 after that copying content of example app directly to `www` folder and replacing
 values used in `Boxcar.init()` part of js/index.js with those assigned to your
